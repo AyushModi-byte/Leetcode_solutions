@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AyushModi-byte/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/AyushModi-byte/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/AyushModi-byte/Leetcode_solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushModi-byte/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/AyushModi-byte/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 ## Tree
 |  |
 | ------- |
